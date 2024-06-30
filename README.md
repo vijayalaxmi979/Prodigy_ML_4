@@ -18,7 +18,7 @@ The database is structured in different folders as:
 /09 (last subject with identifier 09)
 Every root folder (00, 01,…) contains the infrared images of one subject. The folder name is the identifier of each different subject.
 
-**DataLink**: https://www.kaggle.com/datasets/gti-upm/leapgestrecog
+**DataSet Link**: https://www.kaggle.com/datasets/gti-upm/leapgestrecog
 
 **Citation:**
 T. Mantecón, C.R. del Blanco, F. Jaureguizar, N. García, “Hand Gesture Recognition using Infrared Imagery Provided by Leap Motion Controller”, Int. Conf. on Advanced Concepts for Intelligent Vision Systems, ACIVS 2016, Lecce, Italy, pp. 47-57, 24-27 Oct. 2016. (doi: 10.1007/978-3-319-48680-2_5)
