@@ -17,6 +17,7 @@ The database is structured in different folders as:
 /02
 /09 (last subject with identifier 09)
 Every root folder (00, 01,…) contains the infrared images of one subject. The folder name is the identifier of each different subject.
+
 **DataLink**: https://www.kaggle.com/datasets/gti-upm/leapgestrecog
 
 **Citation:**
